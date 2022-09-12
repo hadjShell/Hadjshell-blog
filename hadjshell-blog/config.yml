@@ -1,4 +1,4 @@
-baseURL: "https://hadjshell.dev/"
+baseURL: "https://hadjshell.github.io/"
 title: Hadjshell
 paginate: 5
 theme: PaperMod
@@ -63,11 +63,11 @@ params:
 
   socialIcons:
     - name: linkedin
-      url: "https://twitter.com/"
+      url: "https://www.linkedin.com/in/jiayuan-zhang-00390a201/"
     - name: github
-      url: "https://stackoverflow.com"
+      url: "https://github.com/hadjShell"
     - name: instagram
-      url: "https://github.com/"
+      url: "https://www.instagram.com/hadjshell/"
 
   cover:
     hidden: true # hide everywhere but not in structured data

@@ -1,0 +1,4 @@
+[submodule "hadjshell-blog/public"]
+	path = hadjshell-blog/public
+	url = https://github.com/hadjShell/hadjshell.github.io.git
+	branch = main
