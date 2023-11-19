@@ -16,18 +16,18 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: "ExampleSite description"
+  title: Hadjshell Blog Site
+  description: "Hadjshell Blog Site"
   keywords: [Blog, Hadjshell, PaperMod]
-  # author: Hadjshell
+  author: Hadjshell
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
-  DateFormat: "January 2, 2006"
+  DateFormat: "Jan 2 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
   ShowReadingTime: false
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -36,10 +36,10 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
@@ -56,18 +56,40 @@ params:
     icon: /apple-touch-icon.png
     iconHeight: 35
 
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there welcome to Hadjshell's field\U0001F44B"
-    Content: Mind and hand 知行合一
+  # # home-info mode
+  # homeInfoParams:
+  #   Title: "Hi there welcome to Hadjshell's field\U0001F44B"
+  #   Content: Mind and hand 知行合一
 
-  socialIcons:
-    - name: linkedin
+  # socialIcons:
+  #   - name: linkedin
+  #     url: "https://www.linkedin.com/in/jiayuan-zhang-00390a201/"
+  #   - name: github
+  #     url: "https://github.com/hadjShell"
+  #   - name: instagram
+  #     url: "https://www.instagram.com/hadjshell/"
+
+  profileMode:
+    enabled: true
+    title: "Welcome to Hadjshell's field\U0001F44B" # optional default will be site title
+    imageUrl: "https://hadjshell.github.io/logo.JPG" # optional
+    imageTitle: "Hadjshell's Logo" # optional
+    imageWidth: 150 # custom size
+    imageHeight: 150 # custom size
+
+  socialIcons: # optional
+    - name: "LinkedIn"
       url: "https://www.linkedin.com/in/jiayuan-zhang-00390a201/"
-    - name: github
+    - name: "Github"
       url: "https://github.com/hadjShell"
-    - name: instagram
+    - name: "email"
+      url: "mailto:contact@davidzhang0880@gmail.com"
+    - name: "instagram"
       url: "https://www.instagram.com/hadjshell/"
+    - name: "rss"
+      url: "https://hadjshell.github.io/index.xml"
+    - name: "buymeacoffee"
+      url: "https://buymeacoffee.com/davidzhang0"
 
   cover:
     hidden: true # hide everywhere but not in structured data
@@ -88,6 +110,11 @@ menu:
       name: Tags
       url: /tags/
       weight: 30
+    - identifier: About Me
+      name: About Me
+      url: /about/
+      weight: 40
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
