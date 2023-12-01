@@ -1,5 +1,6 @@
 ---
 title: "Time To Read A Book: The Pragmatic Programmer"
+author: "Jiayuan Zhang"
 Date: "2023-11-17"
 tags: ["Time To Read A Book"]
 ---

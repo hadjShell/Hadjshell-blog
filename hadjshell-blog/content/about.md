@@ -8,7 +8,7 @@ showtoc: false
 
 # Hello there👋
 
-### I'm David @Hadjshell, an enthusiastic human being for life.
+### I'm Jiayuan(David) Zhang, an enthusiastic human being for life.
 
 💝🧡💛💚💙💜🤎🖤🤍
 
@@ -20,10 +20,8 @@ showtoc: false
 
 📝 Favourite quotes: _"Mind and Hand"_
 
-😍 Reading, Travelling, Weightlift, Basketball, Music
+😍 Reading, Travelling, Weightlifting, Basketball, Music
 
 ---
 
-#### This is a site where I share my learning journey & my insight on tech and life.
-
-_Welcome to my website and let's get in touch!_
+_This is the site where I share my learning journey & my insight on tech and life._

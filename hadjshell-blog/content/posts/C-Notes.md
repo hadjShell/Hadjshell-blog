@@ -1,5 +1,6 @@
 ---
 title: "C Notes (Chinese Version)"
+author: "Jiayuan Zhang"
 Date: "2022-02-06"
 tags: ["刀法(How to play with sword🗡️)", "C"]
 ---

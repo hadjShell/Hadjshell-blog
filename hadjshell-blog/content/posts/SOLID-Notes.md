@@ -1,5 +1,6 @@
 ---
 title: "SOLID Principle"
+author: "Jiayuan Zhang"
 date: "2022-06-29"
 tags: ["心法(How to be a sword master🥷)"]
 ---
@@ -56,7 +57,7 @@ tags: ["心法(How to be a sword master🥷)"]
 - High-level modules should not depend on the low-level modules. Both should depend on abstractions
 - Abstractions should not depend on details. Details should depend on abstractions
 
-## Resource
+## References
 
 - https://github.com/JackChan1999/DesignPattern
 - https://github.com/nahidulhasan/solid-principles
