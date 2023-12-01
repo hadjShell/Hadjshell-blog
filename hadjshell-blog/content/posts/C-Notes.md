@@ -1,15 +1,8 @@
 ---
 title: "C Notes (Chinese Version)"
 Date: "2022-02-06"
-tags: ["刀法", "Languages"]
+tags: ["刀法(How to play with sword🗡️)", "C"]
 ---
-
----
-
-## Reference
-
-- [C 语言程序设计 - 翁恺](https://www.bilibili.com/video/BV19W411B7w1?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)
-- Kernighan, B.W. & Ritchie, D.M. (1988) The C programming language. 2nd ed.. Englewood Cliffs, N.J.: Prentice Hall.
 
 ---
 
@@ -1785,3 +1778,12 @@ tags: ["刀法", "Languages"]
   - `.rodata`段存放程序中的常量值，如字符串常量
   - 静态存储区通常指程序中的`.bss`和`.data`段
   - 只读存储区通常指程序中的`.rodata`段
+
+---
+
+## Reference
+
+- [C 语言程序设计 - 翁恺](https://www.bilibili.com/video/BV19W411B7w1?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click)
+- Kernighan, B.W. & Ritchie, D.M. (1988) The C programming language. 2nd ed.. Englewood Cliffs, N.J.: Prentice Hall.
+
+---
