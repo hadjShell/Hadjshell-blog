@@ -8,8 +8,6 @@ showtoc: false
 
 # Hello there👋
 
----
-
 ### I'm David @Hadjshell, an enthusiastic human being for life.
 
 💝🧡💛💚💙💜🤎🖤🤍
@@ -27,7 +25,5 @@ showtoc: false
 ---
 
 #### This is a site where I share my learning journey & my insight on tech and life.
-
----
 
 _Welcome to my website and let's get in touch!_
